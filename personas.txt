@@ -1,0 +1,5 @@
+id,gender,edu,age,job
+1,male,高中,16,工人
+2,female,本科,21,程序员
+3,male,硕士,24,医生
+4,female,大专,22,教师

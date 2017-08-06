@@ -1,0 +1,3 @@
+id|gender|education|age|job|income
+1|男|高中|14|学生|1500
+2|女|高中|15|学生|2500
